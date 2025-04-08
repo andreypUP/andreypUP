@@ -1,9 +1,9 @@
 <div align="center">
   <div style="display: inline-block; vertical-align: middle;">
-    <img src="greeting.gif" alt="Greeting GIF" style="width: 300px; height: auto;">
+    <img src="greeting-no-bg.gif" alt="Greeting GIF" style="width: 300px; height: auto;">
   </div>
   <div style="display: inline-block; vertical-align: middle; margin-left: 20px;">
-    <img src="greeting-no-bg.gif" alt="Greeting Animation" style="width: 250px; height: auto;">
+    <img src="learn.gif" alt="Animation" style="width: 250px; height: auto;">
   </div>
 </div>
 
