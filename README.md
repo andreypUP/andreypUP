@@ -2,7 +2,7 @@
     <img src="learn.gif" alt="Animation" style="width: 250px; height: auto;">
   </div>
 </div>
-<div>
+<div align="center">
   <div style="display: inline-block; vertical-align: middle;">
     <img src="greeting-no-bg.gif" alt="Greeting GIF" style="width: 300px; height: auto;">
   </div>
