@@ -1,7 +1,11 @@
-
-<h2 align="center">
-  <img src="greeting.gif" alt="Greeting GIF" style="width: 300px; height: auto;">
-</h2>
+<div align="center">
+  <div style="display: inline-block; vertical-align: middle;">
+    <img src="greeting.gif" alt="Greeting GIF" style="width: 300px; height: auto;">
+  </div>
+  <div style="display: inline-block; vertical-align: middle; margin-left: 20px;">
+    <img src="greeting-no-bg.gif" alt="Greeting Animation" style="width: 250px; height: auto;">
+  </div>
+</div>
 
 <p align="center">
   💻 Computer Engineering | MSU-IIT <br>
