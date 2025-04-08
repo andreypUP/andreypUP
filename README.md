@@ -1,4 +1,7 @@
-<h2 align="center">✨ Hi there! I'm <span style="color:#00ffff">Mark Andrey</span> ✨</h2>
+
+<h2 align="center">
+  <img src="greeting.gif" alt="Greeting GIF" style="width: 300px; height: auto;">
+</h2>
 
 <p align="center">
   💻 Computer Engineering | MSU-IIT <br>
